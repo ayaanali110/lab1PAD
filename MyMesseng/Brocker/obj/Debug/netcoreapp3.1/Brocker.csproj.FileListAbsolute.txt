@@ -1,0 +1,51 @@
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.exe
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.deps.json
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.json
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.dev.json
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.dll
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Brocker.pdb
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.csprojAssemblyReference.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfoInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfo.cs
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CopyComplete
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.dll
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.pdb
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.genruntimeconfig.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CoreCompileInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Brocker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\Brocker.exe
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\Brocker.deps.json
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.json
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.dev.json
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\Brocker.dll
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\Brocker.pdb
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.csprojAssemblyReference.cache
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfoInputs.cache
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfo.cs
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CoreCompileInputs.cache
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CopyComplete
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.dll
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.pdb
+C:\Users\Dok\Desktop\Lab1PAD\Brocker\obj\Debug\netcoreapp3.1\Brocker.genruntimeconfig.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\Brocker.exe
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\Brocker.deps.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\Brocker.runtimeconfig.dev.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\Brocker.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\Brocker.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\MyLibrary.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.csprojAssemblyReference.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfoInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.AssemblyInfo.cs
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CoreCompileInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.csproj.CopyComplete
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Brocker\obj\Debug\netcoreapp3.1\Brocker.genruntimeconfig.cache

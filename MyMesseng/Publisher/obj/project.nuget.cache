@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXvkNHOl8Nu2dlOJH7F/shEsSxYBgXUDgXjWWX4dUdQplV8csXLYcadPAFkiZrH9BAG/pXTC7wPJYmheFRJdyw==",
+  "success": true,
+  "projectFilePath": "D:\\UN\\4 sem 1\\(PAD) Programarea Aplicatiilor Distribuite\\Laborator nr1\\MyMesseng\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

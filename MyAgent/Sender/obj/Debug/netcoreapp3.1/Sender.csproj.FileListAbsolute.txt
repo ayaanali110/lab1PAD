@@ -1,0 +1,84 @@
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\semen\source\repos\Agent Grpc\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\Dok\Desktop\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Common.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\bin\Debug\netcoreapp3.1\Common.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache

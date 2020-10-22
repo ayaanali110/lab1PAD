@@ -1,0 +1,51 @@
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Common.dll
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Univer-IV\PAD\Mesagerie\Publisher\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+D:\Univer-IV\PAD\Mesagerie\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\Dok\Desktop\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\MyLibrary.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyMesseng\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache

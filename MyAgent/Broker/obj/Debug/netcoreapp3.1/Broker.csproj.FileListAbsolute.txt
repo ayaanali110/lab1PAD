@@ -1,0 +1,111 @@
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.RazorTargetAssemblyInfo.cache
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.Manifest.cache
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.xml
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
+C:\Users\semen\source\repos\Agent Grpc\Broker\obj\Debug\netcoreapp3.1\Broker.csprojAssemblyReference.cache
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\semen\source\repos\Agent Grpc\Broker\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.csprojAssemblyReference.cache
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Dok\Desktop\MyAgent\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.RazorTargetAssemblyInfo.cache
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.Manifest.cache
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.xml
+C:\Users\Dok\Desktop\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Common.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.csprojAssemblyReference.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.MvcApplicationPartsAssemblyInfo.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.RazorTargetAssemblyInfo.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.Manifest.cache
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\staticwebassets\Broker.StaticWebAssets.xml
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+D:\UN\4 sem 1\(PAD) Programarea Aplicatiilor Distribuite\Laborator nr1\MyAgent\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache
